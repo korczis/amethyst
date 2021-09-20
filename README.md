@@ -4,6 +4,11 @@
 [![Join us on Discord][s4]][di] [![Community forum][s5]][ds] [![Reddit][s7]][rd]
 [![Code coverage][s8]][cc] ![Lines of Code][s6]
 
+## Note
+
+This is korczis fork of amethyst
+
+
 ## What is Amethyst?
 
 Amethyst is a data-driven and data-oriented game engine aiming to be fast and as configurable as possible.
